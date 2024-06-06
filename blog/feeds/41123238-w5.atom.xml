@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 41123238 W5</title><link href="./" rel="alternate"></link><link href="./feeds/41123238-w5.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T06:31:40+08:00</updated><entry><title>41123238 W5</title><link href="./41123238%20W5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:31:40+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41123238 W5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 41123238 W5</title><link href="./" rel="alternate"></link><link href="./feeds/41123238-w5.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T07:21:46+08:00</updated><entry><title>41123238 W5</title><link href="./41123238%20W5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T07:21:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41123238 W5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 
 
 &lt;h1&gt;W5統整網誌&lt;/h1&gt;
 &lt;p&gt;1.在影片上填上字幕,另行上傳到可以嵌入到各分組的網站上&lt;br&gt;
 2.從影片字幕中整理出逐字稿,放在影片下方,以.txt連結安排&lt;br&gt;
-3.並在各嵌入的教學影片下方,以摘要方式說明該影片的教學重點&lt;br&gt;&lt;/p&gt;</content><category term="41123238 W5"></category><category term="網誌編寫"></category></entry></feed>
+3.並在各嵌入的教學影片下方,以摘要方式說明該影片的教學重點&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;如何上傳 LaTeX 範例檔案並利用 Actions 在線上編譯出 pdf(https://www.youtube.com/watch?v=Lq7afE4qi3g)&lt;br&gt;
+利用 Gitpod 與個人 token 取得分組倉儲改版權限()&lt;br&gt;
+指定影片加註任務 統整網誌以及配置 NX 可攜與 PC 執行規劃&lt;br&gt;&lt;/p&gt;</content><category term="41123238 W5"></category><category term="網誌編寫"></category></entry></feed>
